@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/mahdibagherivar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mahdibagherivar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahdi-bagheri-b72b3315a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahdi-bagheri-b72b3315a/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8515569/mahdi-bagheri-varnosfatherani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8515569/mahdi-bagheri-varnosfatherani" height="30" width="40" /></a>
+<a href="https://x.com/mahdibagherivar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahdibagherivar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahdibagheri71/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdibagheri71" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8515569/mahdi-bagheri-varnosfatherani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahdi-bagheri-varnosfatherani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

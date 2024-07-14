@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdibagheri71" alt="mahdibagheri71" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/mahdibagherivar" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/mahdibagherivar?logo=twitter&style=for-the-badge" alt="https://twitter.com/mahdibagherivar" /></a> </p>
+<p align="left"> <a href="https://x.com/mahdibagherivar" target="blank"><img src="https://img.shields.io/twitter/follow/mahdibagherivar?logo=twitter&style=for-the-badge" alt="https://x.com/mahdibagherivar" /></a> </p>
 
 - 🔭 I’m currently working on **Tiny**
 
